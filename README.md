@@ -1,4 +1,4 @@
-# End-to-End-Data-Analysis-Project done in SQL ans PowerBI
+# Data-Analysis-Project done in SQL ans PowerBI
 ## A data analyst helping Toman Bike Share to understand if increasing prices next year is possible. 
 
 All files and data provided
